@@ -27,7 +27,7 @@ I've worked on software for an accounting firm, contributed to open-source proje
 
 Outside of programming, I'm into music, film, tennis, and finding new things to build.
 
-🌐 [michaelpc.dev](https://michaelpc.dev/)
+📫 <a href="mailto:m.pierrecanel@ufl.edu">m.pierrecanel@ufl.edu</a>
 
 <h3>Some of my Favorite Tools and Languages</h3>
 
