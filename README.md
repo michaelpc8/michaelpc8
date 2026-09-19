@@ -19,7 +19,7 @@
 
 <div align="left">
 
-Hi there! 👋
+hey! ᐠ( ᐛ )ᐟ
 
 My name is Michael and I'm a Computer Science student at the University of Florida. I enjoy building full-stack applications and exploring the intersection of software, finance, and AI.
 
